@@ -18,7 +18,7 @@ Este projeto é um website de cafeteria desenvolvido com HTML5, CSS3 e JavaScrip
 
 ## 🌐 Deploy
 
-Você pode acessar o site ao vivo através deste link: [Website da Cafeteria](https://www.seu-site.com)
+Você pode acessar o site ao vivo através deste link: [Website da Cafeteria](https://cafena-cafeteria-website.vercel.app/)
 
 ## 🤝 Contribuição
 
